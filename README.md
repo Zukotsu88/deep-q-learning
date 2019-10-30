@@ -1,4 +1,4 @@
-# deep-q-learning
+# Deep-Q-learning with Cartpole
 
 Introduction to Making a Simple Game AI with Deep Reinforcement Learning
 
